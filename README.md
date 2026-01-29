@@ -26,9 +26,9 @@ The application supports **user and admin roles**, allowing users to browse and 
 
 
 ## 🧱 Project Structure
-'''
+
+```text
 JAVA FINAL PROJECT 1.1/
-│
 ├── Classes/
 │   ├── Login.java
 │   ├── AdminLogin.java
@@ -36,25 +36,20 @@ JAVA FINAL PROJECT 1.1/
 │   ├── Homepage.java
 │   ├── Newbook.java
 │   ├── Oldbook.java
-│   ├── Payment.java
-│   └── ...
-│
+│   └── Payment.java
 ├── Interfaces/
 │   ├── Account.java
 │   └── AdminAccount.java
-│
 ├── Image/
 │   ├── welcome.jpg
 │   ├── The-Alchemist.jpg
-│   ├── stationery.jpg
-│   └── ...
-│
+│   └── stationery.jpg
 ├── Admindata.txt
 ├── Data.txt
 ├── Start.java
 ├── run.bat
 └── README.md
-'''
+```
 
 ## 🛠 Technologies Used
 
