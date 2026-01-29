@@ -26,7 +26,7 @@ The application supports **user and admin roles**, allowing users to browse and 
 
 
 ## 🧱 Project Structure
-
+'''
 JAVA FINAL PROJECT 1.1/
 │
 ├── Classes/
@@ -54,7 +54,7 @@ JAVA FINAL PROJECT 1.1/
 ├── Start.java
 ├── run.bat
 └── README.md
-
+'''
 
 ## 🛠 Technologies Used
 
